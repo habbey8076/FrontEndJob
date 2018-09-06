@@ -1,0 +1,4 @@
+let ---visible within block{}
+var  --can be global or local
+
+const
